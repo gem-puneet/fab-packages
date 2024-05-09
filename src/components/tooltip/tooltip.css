@@ -1,0 +1,27 @@
+/* src/components/tooltip/tooltip.css */
+.custom-tooltip {
+    position: absolute;
+    background-color: #000;
+    color: #fff;
+    padding: 5px;
+    border-radius: 3px;
+    font-size: 14px;
+  }
+  
+  /* Positioning styles for top, bottom, left, right */
+  .top {
+    bottom: 100%;
+  }
+  
+  .bottom {
+    top: 100%;
+  }
+  
+  .left {
+    right: 100%;
+  }
+  
+  .right {
+    left: 100%;
+  }
+  
