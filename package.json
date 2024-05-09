@@ -1,0 +1,24 @@
+{
+  "name": "fab-packages",
+  "version": "1.0.0",
+  "description": "npm package for fab ",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "npm run test",
+    "publish": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gem-puneet/fab-packages.git"
+  },
+  "keywords": [
+    "npm"
+  ],
+  "author": "Gemini",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/gem-puneet/fab-packages/issues"
+  },
+  "homepage": "https://github.com/gem-puneet/fab-packages#readme"
+}
